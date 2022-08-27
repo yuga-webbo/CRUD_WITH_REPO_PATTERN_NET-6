@@ -1,0 +1,15 @@
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.AssemblyInfo.cs
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\bin\Debug\net6.0\Ecommerce.Repository.deps.json
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\bin\Debug\net6.0\Ecommerce.Repository.dll
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\bin\Debug\net6.0\Ecommerce.Repository.pdb
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\bin\Debug\net6.0\Ecommerce.Entities.dll
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\bin\Debug\net6.0\Ecommerce.Entities.pdb
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.csproj.CopyComplete
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.dll
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\refint\Ecommerce.Repository.dll
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\Ecommerce.Repository.pdb
+D:\nn\CRUD_WITH_REPO_PATTERN_NET-6\EcommerceApp\Ecommerce.Repository\obj\Debug\net6.0\ref\Ecommerce.Repository.dll
