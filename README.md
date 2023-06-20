@@ -38,3 +38,13 @@ Stop and restart the API with the command dotnet run from the project root folde
 ## ADD AUTO MAPPER
 dotnet add package AutoMapper --version 10.1.1
 dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection --version 8.1.1
+
+## To run the same using Package console :
+> add-migration initial
+
+> update-database
+
+## To run migration for updated columns :
+> add-migration productColumnChange
+
+> update-database
